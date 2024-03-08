@@ -1,0 +1,10 @@
+<svg width="54" height="44" viewBox="0 0 54 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.375 3H36.9583L44.25 10.2995V16.139C42.7917 15.5134 40.9167 15.0963 39.0417 15.0963C31.9583 15.0963 26.125 20.7273 26.125 28.0267C26.125 29.6952 26.3333 31.1551 26.9583 32.615H7.375C4.875 32.615 3 30.738 3 28.2353V7.37968C3 5.08556 5.08333 3 7.375 3Z" stroke="#3CB816" stroke-opacity="0.5" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.1667 3L44.25 10.7166H41.5417C39.0417 10.7166 37.1667 8.83957 37.1667 6.3369V3Z" stroke="#3CB816" stroke-opacity="0.5" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.41669 10.5081H19.25" stroke="#3CB816" stroke-opacity="0.5" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.41669 15.3047H25.9167" stroke="#3CB816" stroke-opacity="0.5" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.41669 20.3103H25.9167" stroke="#3CB816" stroke-opacity="0.5" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.41669 25.3154H25.9167" stroke="#3CB816" stroke-opacity="0.5" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.0417 15.0962C46.125 15.0962 51.9583 20.7272 51.9583 28.0267C51.9583 35.1176 46.3333 40.9572 39.0417 40.9572C31.9583 40.9572 26.125 35.1176 26.125 28.0267C26.125 20.7272 31.9583 15.0962 39.0417 15.0962ZM39.0417 22.8128C41.9583 22.8128 44.25 25.1069 44.25 28.0267C44.25 30.9465 41.9583 33.2406 39.0417 33.2406C36.125 33.2406 33.8333 30.9465 33.8333 28.0267C33.625 25.1069 36.125 22.8128 39.0417 22.8128Z" stroke="#3CB816" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.0417 15.0962C46.125 15.0962 51.75 20.7272 51.9583 27.8181H44.25C44.25 24.8983 41.9583 22.6042 39.0417 22.6042V15.0962Z" fill="#3CB816"/>
+</svg>
