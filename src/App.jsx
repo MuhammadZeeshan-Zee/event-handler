@@ -1,7 +1,7 @@
 import Wedo from './components/Wedo'
 import './App.css'
 
-import UseRf from './UseRf'
+// import UseRf from './UseRf'
 function App() {
   // let cursor=document.querySelector('.cursor');
   // document.addEventListener('mouseover',(e)=>{
@@ -12,7 +12,7 @@ function App() {
   
   return (
     <>
-  <UseRf/>
+  {/* <UseRf/> */}
   <Wedo/>
     </>
   )

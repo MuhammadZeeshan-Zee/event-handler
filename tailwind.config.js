@@ -19,6 +19,7 @@ export default {
       'black':'black',
       'mycolor':'#1e293b',
       'mybg':'#0f172a',
+      'hrcolor':'#16a34a'
     },
     
   },
